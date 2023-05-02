@@ -42,3 +42,9 @@ nauciProgramiranje.ba je web aplikacija zamišljena kao platforma za učenje pro
 #### Hosting
 
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+
+## Frontend
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=edinSahbaz&repo=next-client&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+
+## Backend
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=edinSahbaz&repo=dotnet-api&theme=react)](https://github.com/anuraghazra/github-readme-stats)
