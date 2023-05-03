@@ -10,7 +10,8 @@ nauciProgramiranje.ba je web aplikacija zamišljena kao platforma za učenje pro
 - Autorizacija – Razni nivoi pristupa. Ukoliko korisnika nije prijavljen dostupne su mu samo osnovne informacije. Ukoliko je korisnik logovan, ali nije platio kurs, može vidjeti samo besplatne dijelove kursa, dok korisnik koji je platio uslugu može pristupiti svim dijelivima stranice.
 - Razvojno okruženje – Integrisano razvojno okruženje dostupno sa web stranice. Omogućava objedinjeno iskustvo razvoja, odnosno izrade zadataka i praćenja samog kursa.
 - Python kurs – Page koji sadrži kurs.
-- Testovi(pitanja za projevru) – Nakon svakog videa u kursu, korisniku će biti ponudjen mini test s 5 – 10 pitanja vezanih za tematiku obradjenu u videu. Projekti – Nakon svakog poglavlja korisniku se predlaže projektni zadatak koji će poboljšati njegove vještine iz navedene oblasti. Ponudjena će biti i rješenja, kao i korisni savjeti pri izradi tog zadatka.
+- Testovi(pitanja za projevru) – Nakon svakog videa u kursu, korisniku će biti ponudjen mini test s 5 – 10 pitanja vezanih za tematiku obradjenu u videu. 
+- Projekti – Nakon svakog poglavlja korisniku se predlaže projektni zadatak koji će poboljšati njegove vještine iz navedene oblasti. Ponudjena će biti i rješenja, kao i korisni savjeti pri izradi tog zadatka.
 - Certifikat – Nakon 100% završenog kursa, korisnik može skinuti prilagodjeni certifikat za završen kurs programiranja.
 - Centar za pomoć – Robusni centar za pomoć koji nudi korisniku sve vrste informacija o servisu kao i mogućnost kontakta.
 
