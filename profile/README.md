@@ -45,7 +45,11 @@ nauciProgramiranje.ba je web aplikacija zamišljena kao platforma za učenje pro
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 ## Frontend
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=edinSahbaz&repo=next-client&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nauciProgramiranje-ba&repo=next-client&theme=react)](https://github.com/nauciProgramiranje-ba/next-client)
 
 ## Backend
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=edinSahbaz&repo=dotnet-api&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nauciProgramiranje-ba&repo=dotnet-api&theme=react)](https://github.com/nauciProgramiranje-ba/dotnet-api)
+
+## Database
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nauciProgramiranje-ba&repo=mssql-database&theme=react)](https://github.com/nauciProgramiranje-ba/mssql-database)
+
