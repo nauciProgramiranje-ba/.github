@@ -50,6 +50,6 @@ nauciProgramiranje.ba je web aplikacija zamišljena kao platforma za učenje pro
 ## Backend
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nauciProgramiranje-ba&repo=dotnet-api&theme=react)](https://github.com/nauciProgramiranje-ba/dotnet-api)
 
-## Database
+## Baza Podataka
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nauciProgramiranje-ba&repo=mssql-database&theme=react)](https://github.com/nauciProgramiranje-ba/mssql-database)
 
