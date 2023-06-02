@@ -42,6 +42,7 @@ nauciProgramiranje.ba je web aplikacija zamišljena kao platforma za učenje pro
 
 #### Hosting
 
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 ## Frontend
