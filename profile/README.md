@@ -44,10 +44,3 @@ nauciProgramiranje.ba je web aplikacija zamišljena kao platforma za učenje pro
 
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-
-## Frontend
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nauciProgramiranje-ba&repo=next-client&theme=react)](https://github.com/nauciProgramiranje-ba/next-client)
-
-## Backend
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nauciProgramiranje-ba&repo=dotnet-api&theme=react)](https://github.com/nauciProgramiranje-ba/dotnet-api)
-
